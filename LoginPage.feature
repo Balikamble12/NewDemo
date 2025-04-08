@@ -11,5 +11,7 @@ Feature: Title of your feature
     And yet another action
     Then I validate the outcomes
     And check more outcomes
+    And check the name of user name 
+    Then User found username 
 
  
